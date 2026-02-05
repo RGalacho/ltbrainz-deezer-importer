@@ -1,0 +1,6 @@
+.idea/
+.venv/
+.venv_poetry/
+__pycache__/
+*/__pycache__/
+*.log
